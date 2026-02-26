@@ -1,16 +1,26 @@
 # blog_app
 
-A new Flutter project.
 
-## Getting Started
+Une application mobile avec **Flutter** destinée aux blogs ici le l'utilisateur peut publier voir des blogs développée dans le cadre de ma formation .
 
-This project is a starting point for a Flutter application.
+## 🚀 Fonctionnalités
+- Authentification avec supabase
+- 
+- Mode sombre
+- Utilisation de Clean Architecture pour la structure du code
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies utilisées
+- **Framework :** Flutter
+- **Langage :** Dart
+- **Gestion d'état :** [Bloc / Cubit]
+- **Outils :** [Supabase,Get it ]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Aperçu
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture d'écran pour publier un blog](blog_add.png)
+![Capture d'écran pour publier un blog](blog.png)
+![Capture d'écran pour publier un blog](sign_in.png)
+![Capture d'écran pour publier un blog](sign_up.png)
+
+
+
